@@ -21,7 +21,7 @@ test {
 jar {
     manifest {
         attributes(
-                'Main-Class': 'org.example.Lox'
+                'Main-Class': 'org.example.lox.Lox'
         )
     }
 }
