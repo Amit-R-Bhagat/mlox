@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d429ee22-4aac-4a4e-8b0c-0c46c86b47eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lox/AstPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lox/Parser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lox/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lox/Expr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tool/GenerateAst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lox/Lox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lox/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lox/Token.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

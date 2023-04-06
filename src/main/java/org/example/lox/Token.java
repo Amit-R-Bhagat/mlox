@@ -1,14 +1,14 @@
 package org.example.lox;
 
 public class Token {
-    final TokenType tokenType;
+    final TokenType type;
     final String lexeme;
     final Object literal;
     final int line;
 
 
     public Token(TokenType tokenType, String lexeme, Object literal, int line) {
-        this.tokenType = tokenType;
+        this.type = tokenType;
         this.lexeme = lexeme;
         this.literal = literal;
         this.line = line;
@@ -16,6 +16,6 @@ public class Token {
 
     @Override
     public String toString() {
-        return tokenType + " " + lexeme + " " + literal;
+        return type + " " + lexeme + " " + literal;
     }
 }
